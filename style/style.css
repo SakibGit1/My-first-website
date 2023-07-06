@@ -15,12 +15,12 @@
     font-size: 18px;
 }
 .menus{
-    padding: 5px;
+    padding: 8px;
     display: flex;
     list-style: none;
 }
 .logo{
-    width:100px;
+    width:130px;
     padding: 5px;
  
 }
