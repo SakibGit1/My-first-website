@@ -69,6 +69,7 @@
         border-radius: 3px;
         border: none;
         color: white;
+        cursor: pointer;
     }
     /* our service section */
     .service{
@@ -102,7 +103,7 @@
     padding:10px;
 }
 .box-btn{
-    background-color: #1c1b1b;
+    background-color: #60a0e9;
 }
 .icon{
     width:70px;
